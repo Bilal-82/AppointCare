@@ -13,6 +13,7 @@ Once registered, doctors can manage their schedules efficiently through the app.
 >ReactJS
 >NodeJS
 >ExpressJS
+>JavaScrpit
 >HTML
 >CSS
 >BootStrap
