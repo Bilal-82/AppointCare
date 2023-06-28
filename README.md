@@ -10,13 +10,14 @@ AppointCare recognizes the importance of a seamless appointment management syste
 Once registered, doctors can manage their schedules efficiently through the app. They have the flexibility to update their availability, block specific time slots, and specify appointment durations. AppointCare's intelligent scheduling algorithm optimizes the doctor's calendar, reducing the likelihood of appointment conflicts and ensuring an organized workflow.
 
 # TOOLS & TECHNOLOGY USED
->React JS
->Node JS
->Express JS
+>ReactJS
+>NodeJS
+>ExpressJS
+>HTML
+>CSS
 >BootStrap
 >Concurrently
->antd
->CSS
+>AntDesign
 >Redux
 >Mongoose
 >Nodemon
